@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I joined PPC on October, and I am now studying for generators.
 - 💠 ¡Viva la revolution Ninjalandiana!
-- 💻 I am programming without conscience lol
+
 <!---
 ninjalandia/ninjalandia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
